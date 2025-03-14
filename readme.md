@@ -1,4 +1,5 @@
 Tp Git with le Thomas 🖥️
+<br/>
 <img src="img/git_wallpaper.jpg" alt="drawing" width="400"/>
 ---------------------------------------------------------
 following to the creation of a repo in GitHub :
